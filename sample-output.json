@@ -1,0 +1,4086 @@
+[
+  {
+    "name": "Siemens AG",
+    "legalForm": "AG",
+    "status": "active",
+    "city": "München",
+    "postalCode": "80333",
+    "street": "Werner-von-Siemens-Str. 1",
+    "country": "Germany",
+    "countryCode": "DE",
+    "northdataUrl": "https://www.northdata.com/Siemens%20AG,%20M%C3%BCnchen/HRB%206684",
+    "foundingDate": "1996-08-28",
+    "purpose": "Development, manufacture, supply, operation and distribution of as well as trade in products, systems, plants and solutions and provision of services as well as research and development, in particular in the industrial, energy, health and infrastructure sectors, including the traditional fields of electrical engineering, electronics, precision mechanics and mechanical engineering, as well as in adjacent areas of activity. In these and other areas, the Company may be active in any field of information technologies (including electronic data processing, transmission, software, platforms and self-learning systems) and provide related services. Furthermore, the Company may be active in particular through group or associated companies in the financial sector (including banks and reinsurance) and, also in the management of its own assets, in companies and companies of any kind also indirectly.",
+    "alternateNames": [
+      "Siemens Setr"
+    ],
+    "lei": "W38RGI023J3WT1HWRP32",
+    "identifiers": [
+      {
+        "source": "Ut",
+        "sourceName": "German Trade Register Company Profile",
+        "value": "District Court of Munich HRB 6684"
+      },
+      {
+        "source": "Stockp",
+        "sourceName": "Stock exchange listed companies - Profiles",
+        "value": "SIA.BR SIE.DE SIEGY SMAWF SMNS.TO"
+      },
+      {
+        "source": "Lei",
+        "sourceName": "Global Legal Entity Identifier Foundation (LEI numbers)",
+        "value": "W38RGI023J3WT1HWRP32"
+      },
+      {
+        "source": "EUID",
+        "sourceName": null,
+        "value": "DED2601V.HRB6684"
+      }
+    ],
+    "formerIdentifiers": [
+      {
+        "source": "Cvrcom",
+        "sourceName": "Danish Central Business Register",
+        "value": "CVR 17887750"
+      },
+      {
+        "source": "Ccrcom",
+        "sourceName": "Brønnøysund Register Centre (company profiles)",
+        "value": "The Brønnøysund Register Centre 986932518"
+      },
+      {
+        "source": "Kbo",
+        "sourceName": "Crossroads Bank for Enterprises (KBO)",
+        "value": "Crossroads Bank for Enterprises (KBO) 0405.923.422"
+      }
+    ],
+    "registerText": "District Court of Munich HRB 6684",
+    "registerCourt": "District Court of Munich",
+    "registerId": "HRB 6684",
+    "euid": "DED2601V.HRB6684",
+    "stockTickers": [
+      "SIA.BR",
+      "SIE.DE",
+      "SIEGY",
+      "SMAWF",
+      "SMNS.TO"
+    ],
+    "formerAddresses": [
+      "Berlin, Germany"
+    ],
+    "officers": [
+      {
+        "name": "Busch, Roland",
+        "role": "CEO",
+        "type": "Person"
+      },
+      {
+        "name": "Bienert, Veronika",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Körte, Peter",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Rebellius, Matthias Ernst",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Wiese, Judith",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Rußwurm, Siegfried Konrad",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Adragna, Margherita",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Ahrens, Jan-Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Alipur-Ghazani, Michaela",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Amenda, Susanne",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Aspacher, Karl-Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Atzler, Tobias",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Badie, Ingy",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Basson, Rudolf",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Baumgarth, Monika Christine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Behringer, Tobias",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Bischoff, Jörg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Bock, Beatrice Eva-Maria",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Böttcher, Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Brandes, Henning",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Brehm, Heike",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Brehm, Rainer",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Breutmann, Thorsten",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Burke, Nanda",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Butze, Dirk",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Dehio, Jan-Erik",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Didascalou, Dirk Leonidas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Dierckens, Saar",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Driesslein-Pokkinen, Anne",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Duffing, Joos",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Dusil, Vlasta",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Eberle, Eckard",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Erlinghagen, Sabine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Fischer, Frank",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Fischer, Heiko Thomas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Folwaczny, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Gaus, Norbert",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Gehring, Ingo",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Grabmeier, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Günther, Nina",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Hahn, Thilo",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Hefele, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Heinzelmann, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Hennig, Hanna",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Heubeck, Gerhard",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Holzapfel, Tim Alexander",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Homering, Christian",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Jochums, Jelena",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kaeser, Christian",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kalbitz, Sabine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kammerer, Susanne",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kayser, Horst-J.",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Keßler, Axel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Klein, Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Klotz, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kraus, Annette",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lautenbach, Thomas Werner",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lenhard, Frank",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lichtenberg, Eva-Maria",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Liehr, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Löhle, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lorenz, Axel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Luk, Peter Chi Shun",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Maier, Daniel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Matthe, Andreas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "May, Stephan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Metzner, Yves",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Meyer, Martin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Mildner, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Müller, Thomas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Mundani, Dagmar",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Niehuis, Jan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Paul, Jens Philippe",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Peltz, Achim",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Peter, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Petrasch, Martin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Pischel, Yuan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Popp, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Ramming, Wolfgang",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rathgeb, Peter",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rathke, Klaus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Reichel, Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Reinhold, Martin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Resch, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Ribeiro Guimaraes Höfer, Christiane",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Riesenhuber, Eva",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Royla, Pascal",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rudolf, Andreas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rümmler, Steffen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rüttler, Axel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schäffrig, Stefan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schieffer, Frank",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schiffrin, Jennifer",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schirmer, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schmid, Christian",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schwerin, Hartmut",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Spangler, Robert",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Staubitzer, Klaus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Stebe, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Stenger, Meiko",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Strehle, Christopher",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Tabbert, Henning",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Thiede, Claus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Vallese Camilo de Godoi, Roberto",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Vocke, Joerg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Voß, Dirk",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wagner, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wang, Fengjuan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wauschkuhn, Antonie",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Weckesser, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wiedersich, Thomas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Zahnen, Andreas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Zander, Kevin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Zischka, Sabine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Thomas, Müller",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Dehio, Jan-Eric",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Hoffmann, Andreas Christian",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kunkel, Hanno",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kaeser, Josef",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Thomas, Ralf P.",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Helmrich, Klaus",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Sen, Michael",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Davis, Lisa",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kugel, Janina",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bauersachs, Markus",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bartmann, Uwe",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Moritz, Norbert",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Zajewski, Hardi",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Blaim, Karl",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bleiweiß, Christian",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Pokorny, Dietmar",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Spiegl, Susanne",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Fredrich, Thomas",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bock, Yves",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kehlenbeck, Bernd",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Moschko, Stefan",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Weibel, Beat",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "von Kollrepp-Knott, Kathy",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kastenmeier, Peter",
+        "role": null,
+        "type": "Person"
+      }
+    ],
+    "events": [
+      {
+        "section": "History",
+        "date": "1996-08-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration",
+        "current": true,
+        "source": "Ut",
+        "sourceUrl": "https://www.handelsregister.de/rp_web/search.do?registergericht=D2601&registerArt=HRB&registerNummer=6684",
+        "eventId": "4320788860"
+      },
+      {
+        "section": "History",
+        "date": "1988-07-01",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Denmark",
+        "current": true,
+        "source": "Cvrcom",
+        "sourceUrl": null,
+        "eventId": "5568827599880192"
+      },
+      {
+        "section": "History",
+        "date": "1961-06-01",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Belgium",
+        "current": true,
+        "source": "Kbo",
+        "sourceUrl": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0931790512",
+        "eventId": "4585160851324928"
+      },
+      {
+        "section": "History",
+        "date": "1897-06-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Norway",
+        "current": true,
+        "source": "Ccrcom",
+        "sourceUrl": null,
+        "eventId": "4942529371963392"
+      },
+      {
+        "section": "History",
+        "date": "2001-10-31",
+        "until": null,
+        "category": "name",
+        "text": "Name: Siemens AG",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5432649783443456"
+      },
+      {
+        "section": "History",
+        "date": "2017-05-10",
+        "until": null,
+        "category": "address",
+        "text": "City: Munich, Germany",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1071048&land_abk=by",
+        "eventId": "3505965303"
+      },
+      {
+        "section": "History",
+        "date": "2008-12-22",
+        "until": null,
+        "category": "address",
+        "text": "City: Berlin, Germany",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4798546381897728"
+      },
+      {
+        "section": "History",
+        "date": "2026-03-20",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.35B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4598647455088640"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-24",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4718424970362880"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-10",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6011845714509824"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-01",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5955962015973376"
+      },
+      {
+        "section": "History",
+        "date": "2025-09-09",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6038721495040000"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-15",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Veronika Bienert",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5574592786857984",
+        "role": "Member of the Executive Board",
+        "person": "Veronika Bienert"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-15",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Peter Körte",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5574592786857984",
+        "role": "Member of the Executive Board",
+        "person": "Peter Körte"
+      },
+      {
+        "section": "Persons",
+        "date": "2021-03-15",
+        "until": null,
+        "category": "officer",
+        "text": "CEO Roland Busch",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1474554&land_abk=by",
+        "eventId": "6491175889",
+        "role": "CEO",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-19",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Matthias Ernst Rebellius",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1433353&land_abk=by",
+        "eventId": "6237709727",
+        "role": "Member of the Executive Board",
+        "person": "Matthias Ernst Rebellius"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-19",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Judith Wiese",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1433353&land_abk=by",
+        "eventId": "6237709727",
+        "role": "Member of the Executive Board",
+        "person": "Judith Wiese"
+      },
+      {
+        "section": "Persons",
+        "date": "2011-05-20",
+        "until": "2021-03-15",
+        "category": "officer",
+        "text": "Member of the Executive Board Roland Busch",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=507590&land_abk=by",
+        "eventId": "10402209",
+        "role": "Member of the Executive Board",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2008-04-01",
+        "until": "2017-05-10",
+        "category": "officer",
+        "text": "Member of the Executive Board Siegfried Konrad Rußwurm",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=235998&land_abk=by",
+        "eventId": "8069822",
+        "role": "Member of the Executive Board",
+        "person": "Siegfried Konrad Rußwurm"
+      },
+      {
+        "section": "Persons",
+        "date": "2026-08-07",
+        "until": null,
+        "category": "publication",
+        "text": "Authorized signatory (ppa) Markus Grabmeier",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6365521928912896",
+        "role": "Authorized signatory",
+        "person": "(ppa) Markus Grabmeier"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2023-12-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "Public funding (€38M): Building blocks for the cloud edge kick-start …",
+        "current": true,
+        "source": "Fk",
+        "sourceUrl": "https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=13IPC008",
+        "eventId": "6631133387423744"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2017-11-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€20.3M): Pan-European system with an efficient …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=212400",
+        "eventId": "5907478943"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2021-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€11.9M): A flagship for B5G/6G vision and intelligent …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=232703",
+        "eventId": "6333385444"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2026-10-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€7,984,004): Efficient Foundation Model Inference Across …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=292358",
+        "eventId": "6637154086289408"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2023-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€6,060,538): Cognitive Decentralised Edge Cloud …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=243466",
+        "eventId": "6521021458022400"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€4,995,981): Collaborative Development Framework for …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=268122",
+        "eventId": "5259471386574848"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2018-09-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€7,503,731): Advanced Research Into Aeromechanical …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=216015",
+        "eventId": "5907485608"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2011-10-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€7,499,776): Eco Manufactured Transportation Means From …",
+        "current": true,
+        "source": "Fts",
+        "sourceUrl": null,
+        "eventId": "6037963054252032"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-12",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Siemens Treasury GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5455633634295808"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-08",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger MTS Mathematisch Technische Software-Entwicklung GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4875262152671232"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2024-07-29",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Inspekto GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4722273941716992"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2023-04-11",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Senseye GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4727480420401152"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2021-06-02",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Beteiligungen Management GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4551929252806656"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-09-01",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Acquisition",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6336156159967232"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-04-02",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Gesellschaft für Industrielle Steuerungstechnik IST mbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5891156561362944"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2019-05-24",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Agilion GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6141242977550336"
+      }
+    ],
+    "registerEvents": [
+      {
+        "section": "History",
+        "date": "1996-08-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration",
+        "current": true,
+        "source": "Ut",
+        "sourceUrl": "https://www.handelsregister.de/rp_web/search.do?registergericht=D2601&registerArt=HRB&registerNummer=6684",
+        "eventId": "4320788860"
+      },
+      {
+        "section": "History",
+        "date": "1988-07-01",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Denmark",
+        "current": true,
+        "source": "Cvrcom",
+        "sourceUrl": null,
+        "eventId": "5568827599880192"
+      },
+      {
+        "section": "History",
+        "date": "1961-06-01",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Belgium",
+        "current": true,
+        "source": "Kbo",
+        "sourceUrl": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0931790512",
+        "eventId": "4585160851324928"
+      },
+      {
+        "section": "History",
+        "date": "1897-06-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Norway",
+        "current": true,
+        "source": "Ccrcom",
+        "sourceUrl": null,
+        "eventId": "4942529371963392"
+      },
+      {
+        "section": "History",
+        "date": "2001-10-31",
+        "until": null,
+        "category": "name",
+        "text": "Name: Siemens AG",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5432649783443456"
+      },
+      {
+        "section": "History",
+        "date": "2017-05-10",
+        "until": null,
+        "category": "address",
+        "text": "City: Munich, Germany",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1071048&land_abk=by",
+        "eventId": "3505965303"
+      },
+      {
+        "section": "History",
+        "date": "2008-12-22",
+        "until": null,
+        "category": "address",
+        "text": "City: Berlin, Germany",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4798546381897728"
+      },
+      {
+        "section": "History",
+        "date": "2026-03-20",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.35B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4598647455088640"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-24",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4718424970362880"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-10",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6011845714509824"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-01",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5955962015973376"
+      },
+      {
+        "section": "History",
+        "date": "2025-09-09",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6038721495040000"
+      }
+    ],
+    "officerEvents": [
+      {
+        "section": "Persons",
+        "date": "2024-10-15",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Veronika Bienert",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5574592786857984",
+        "role": "Member of the Executive Board",
+        "person": "Veronika Bienert"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-15",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Peter Körte",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5574592786857984",
+        "role": "Member of the Executive Board",
+        "person": "Peter Körte"
+      },
+      {
+        "section": "Persons",
+        "date": "2021-03-15",
+        "until": null,
+        "category": "officer",
+        "text": "CEO Roland Busch",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1474554&land_abk=by",
+        "eventId": "6491175889",
+        "role": "CEO",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-19",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Matthias Ernst Rebellius",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1433353&land_abk=by",
+        "eventId": "6237709727",
+        "role": "Member of the Executive Board",
+        "person": "Matthias Ernst Rebellius"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-19",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Judith Wiese",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1433353&land_abk=by",
+        "eventId": "6237709727",
+        "role": "Member of the Executive Board",
+        "person": "Judith Wiese"
+      },
+      {
+        "section": "Persons",
+        "date": "2011-05-20",
+        "until": "2021-03-15",
+        "category": "officer",
+        "text": "Member of the Executive Board Roland Busch",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=507590&land_abk=by",
+        "eventId": "10402209",
+        "role": "Member of the Executive Board",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2008-04-01",
+        "until": "2017-05-10",
+        "category": "officer",
+        "text": "Member of the Executive Board Siegfried Konrad Rußwurm",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=235998&land_abk=by",
+        "eventId": "8069822",
+        "role": "Member of the Executive Board",
+        "person": "Siegfried Konrad Rußwurm"
+      },
+      {
+        "section": "Persons",
+        "date": "2026-08-07",
+        "until": null,
+        "category": "publication",
+        "text": "Authorized signatory (ppa) Markus Grabmeier",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6365521928912896",
+        "role": "Authorized signatory",
+        "person": "(ppa) Markus Grabmeier"
+      }
+    ],
+    "financials": {
+      "Earnings": {
+        "title": "Earnings",
+        "series": [
+          {
+            "year": 2017,
+            "value": 5961000000,
+            "formattedValue": "€5.96B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2017-09-30"
+          },
+          {
+            "year": 2018,
+            "value": 5807000000,
+            "formattedValue": "€5.81B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2018-09-30"
+          },
+          {
+            "year": 2019,
+            "value": 5174000000,
+            "formattedValue": "€5.17B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2019-09-30"
+          },
+          {
+            "year": 2020,
+            "value": 4030000000,
+            "formattedValue": "€4.03B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2020-09-30"
+          },
+          {
+            "year": 2021,
+            "value": 6161000000,
+            "formattedValue": "€6.16B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2021-09-30"
+          },
+          {
+            "year": 2022,
+            "value": 3723000000,
+            "formattedValue": "€3.72B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2022-09-30"
+          },
+          {
+            "year": 2023,
+            "value": 7949000000,
+            "formattedValue": "€7.95B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2023-09-30"
+          },
+          {
+            "year": 2024,
+            "value": 8301000000,
+            "formattedValue": "€8.30B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2024-09-30"
+          },
+          {
+            "year": 2025,
+            "value": 9620000000,
+            "formattedValue": "€9.62B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2025-09-30"
+          }
+        ]
+      },
+      "Revenue": {
+        "title": "Revenue",
+        "series": [
+          {
+            "year": 2017,
+            "value": 82863000000,
+            "formattedValue": "€82.9B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2017-09-30"
+          },
+          {
+            "year": 2018,
+            "value": 83044000000,
+            "formattedValue": "€83B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2018-09-30"
+          },
+          {
+            "year": 2019,
+            "value": 86849000000,
+            "formattedValue": "€86.8B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2019-09-30"
+          },
+          {
+            "year": 2020,
+            "value": 55254000000,
+            "formattedValue": "€55.3B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2020-09-30"
+          },
+          {
+            "year": 2021,
+            "value": 62265000000,
+            "formattedValue": "€62.3B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2021-09-30"
+          },
+          {
+            "year": 2022,
+            "value": 71977000000,
+            "formattedValue": "€72B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2022-09-30"
+          },
+          {
+            "year": 2023,
+            "value": 74882000000,
+            "formattedValue": "€74.9B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2023-09-30"
+          },
+          {
+            "year": 2024,
+            "value": 75930000000,
+            "formattedValue": "€75.9B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2024-09-30"
+          },
+          {
+            "year": 2025,
+            "value": 78914000000,
+            "formattedValue": "€78.9B",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Stock exchange listed companies - Financial Data",
+            "publicationDate": "2025-09-30"
+          }
+        ]
+      },
+      "FundingAmount": {
+        "title": "Public funding",
+        "series": [
+          {
+            "year": 2018,
+            "value": 11116660.15,
+            "formattedValue": "€11.1M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Förderkatalog des Bundes, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2018-10-01"
+          },
+          {
+            "year": 2019,
+            "value": 17984331.16,
+            "formattedValue": "€18M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Financial Transparency System, Förderkatalog des Bundes, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2019-12-20"
+          },
+          {
+            "year": 2020,
+            "value": 35032167.59,
+            "formattedValue": "€35M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Financial Transparency System, Förderkatalog des Bundes, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2020-07-01"
+          },
+          {
+            "year": 2021,
+            "value": 36722989.5,
+            "formattedValue": "€36.7M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Financial Transparency System, Förderkatalog des Bundes, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2021-08-25"
+          },
+          {
+            "year": 2022,
+            "value": 32969890.32,
+            "formattedValue": "€33M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Financial Transparency System, Förderkatalog des Bundes, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2022-11-01"
+          },
+          {
+            "year": 2023,
+            "value": 54450223.5,
+            "formattedValue": "€54.5M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Förderkatalog des Bundes, State Aid Transparency, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2023-12-01"
+          },
+          {
+            "year": 2024,
+            "value": 39439844.38,
+            "formattedValue": "€39.4M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Förderkatalog des Bundes, State Aid Transparency, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2024-12-01"
+          },
+          {
+            "year": 2025,
+            "value": 34466820.51,
+            "formattedValue": "€34.5M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Financial Transparency System, Förderkatalog des Bundes, State Aid Transparency, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2025-09-24"
+          },
+          {
+            "year": 2026,
+            "value": 17370662.73,
+            "formattedValue": "€17.4M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Financial Transparency System, Förderkatalog des Bundes, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2026-01-01"
+          }
+        ]
+      },
+      "Patents": {
+        "title": "Patents",
+        "series": [
+          {
+            "year": 2018,
+            "value": 2736,
+            "formattedValue": "2,736",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2018-12-31"
+          },
+          {
+            "year": 2019,
+            "value": 2181,
+            "formattedValue": "2,181",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2019-12-31"
+          },
+          {
+            "year": 2020,
+            "value": 1348,
+            "formattedValue": "1,348",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2020-12-31"
+          },
+          {
+            "year": 2021,
+            "value": 1068,
+            "formattedValue": "1,068",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2021-12-30"
+          },
+          {
+            "year": 2022,
+            "value": 1122,
+            "formattedValue": "1,122",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2022-12-31"
+          },
+          {
+            "year": 2023,
+            "value": 1342,
+            "formattedValue": "1,342",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2023-12-31"
+          },
+          {
+            "year": 2024,
+            "value": 1221,
+            "formattedValue": "1,221",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2024-12-31"
+          },
+          {
+            "year": 2025,
+            "value": 494,
+            "formattedValue": "494",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2025-12-31"
+          },
+          {
+            "year": 2026,
+            "value": 314,
+            "formattedValue": "314",
+            "consolidated": false,
+            "estimate": false,
+            "source": "German Patent and Trademark Office, Patent Events, European Patent Office",
+            "publicationDate": "2026-09-28"
+          }
+        ]
+      }
+    },
+    "latestKpis": {
+      "Earnings": {
+        "year": 2025,
+        "value": 9620000000,
+        "formattedValue": "€9.62B"
+      },
+      "Revenue": {
+        "year": 2025,
+        "value": 78914000000,
+        "formattedValue": "€78.9B"
+      },
+      "FundingAmount": {
+        "year": 2026,
+        "value": 17370662.73,
+        "formattedValue": "€17.4M"
+      },
+      "Patents": {
+        "year": 2026,
+        "value": 314,
+        "formattedValue": "314"
+      }
+    },
+    "latestRevenue": 78914000000,
+    "latestRevenueYear": 2025,
+    "latestEarnings": 9620000000,
+    "latestEarningsYear": 2025,
+    "latestBalanceSheetTotal": null,
+    "latestBalanceSheetTotalYear": null,
+    "financialYears": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "lastEventDate": "2026-10-01",
+    "query": "https://www.northdata.com/Siemens%20AG,%20M%C3%BCnchen/HRB%206684",
+    "scrapedAt": "2026-10-19T09:06:43+00:00",
+    "newEvents": [
+      {
+        "section": "History",
+        "date": "1996-08-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration",
+        "current": true,
+        "source": "Ut",
+        "sourceUrl": "https://www.handelsregister.de/rp_web/search.do?registergericht=D2601&registerArt=HRB&registerNummer=6684",
+        "eventId": "4320788860"
+      },
+      {
+        "section": "History",
+        "date": "1988-07-01",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Denmark",
+        "current": true,
+        "source": "Cvrcom",
+        "sourceUrl": null,
+        "eventId": "5568827599880192"
+      },
+      {
+        "section": "History",
+        "date": "1961-06-01",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Belgium",
+        "current": true,
+        "source": "Kbo",
+        "sourceUrl": "https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=0931790512",
+        "eventId": "4585160851324928"
+      },
+      {
+        "section": "History",
+        "date": "1897-06-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration Norway",
+        "current": true,
+        "source": "Ccrcom",
+        "sourceUrl": null,
+        "eventId": "4942529371963392"
+      },
+      {
+        "section": "History",
+        "date": "2001-10-31",
+        "until": null,
+        "category": "name",
+        "text": "Name: Siemens AG",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5432649783443456"
+      },
+      {
+        "section": "History",
+        "date": "2017-05-10",
+        "until": null,
+        "category": "address",
+        "text": "City: Munich, Germany",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1071048&land_abk=by",
+        "eventId": "3505965303"
+      },
+      {
+        "section": "History",
+        "date": "2008-12-22",
+        "until": null,
+        "category": "address",
+        "text": "City: Berlin, Germany",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4798546381897728"
+      },
+      {
+        "section": "History",
+        "date": "2026-03-20",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.35B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4598647455088640"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-24",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4718424970362880"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-10",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6011845714509824"
+      },
+      {
+        "section": "History",
+        "date": "2026-04-01",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5955962015973376"
+      },
+      {
+        "section": "History",
+        "date": "2025-09-09",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6038721495040000"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-15",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Veronika Bienert",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5574592786857984",
+        "role": "Member of the Executive Board",
+        "person": "Veronika Bienert"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-15",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Peter Körte",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5574592786857984",
+        "role": "Member of the Executive Board",
+        "person": "Peter Körte"
+      },
+      {
+        "section": "Persons",
+        "date": "2021-03-15",
+        "until": null,
+        "category": "officer",
+        "text": "CEO Roland Busch",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1474554&land_abk=by",
+        "eventId": "6491175889",
+        "role": "CEO",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-19",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Matthias Ernst Rebellius",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1433353&land_abk=by",
+        "eventId": "6237709727",
+        "role": "Member of the Executive Board",
+        "person": "Matthias Ernst Rebellius"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-19",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Judith Wiese",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=1433353&land_abk=by",
+        "eventId": "6237709727",
+        "role": "Member of the Executive Board",
+        "person": "Judith Wiese"
+      },
+      {
+        "section": "Persons",
+        "date": "2011-05-20",
+        "until": "2021-03-15",
+        "category": "officer",
+        "text": "Member of the Executive Board Roland Busch",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=507590&land_abk=by",
+        "eventId": "10402209",
+        "role": "Member of the Executive Board",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2008-04-01",
+        "until": "2017-05-10",
+        "category": "officer",
+        "text": "Member of the Executive Board Siegfried Konrad Rußwurm",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=235998&land_abk=by",
+        "eventId": "8069822",
+        "role": "Member of the Executive Board",
+        "person": "Siegfried Konrad Rußwurm"
+      },
+      {
+        "section": "Persons",
+        "date": "2026-08-07",
+        "until": null,
+        "category": "publication",
+        "text": "Authorized signatory (ppa) Markus Grabmeier",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6365521928912896",
+        "role": "Authorized signatory",
+        "person": "(ppa) Markus Grabmeier"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2023-12-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "Public funding (€38M): Building blocks for the cloud edge kick-start …",
+        "current": true,
+        "source": "Fk",
+        "sourceUrl": "https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=view&fkz=13IPC008",
+        "eventId": "6631133387423744"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2017-11-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€20.3M): Pan-European system with an efficient …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=212400",
+        "eventId": "5907478943"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2021-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€11.9M): A flagship for B5G/6G vision and intelligent …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=232703",
+        "eventId": "6333385444"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2026-10-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€7,984,004): Efficient Foundation Model Inference Across …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=292358",
+        "eventId": "6637154086289408"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2023-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€6,060,538): Cognitive Decentralised Edge Cloud …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=243466",
+        "eventId": "6521021458022400"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€4,995,981): Collaborative Development Framework for …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=268122",
+        "eventId": "5259471386574848"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2018-09-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€7,503,731): Advanced Research Into Aeromechanical …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=216015",
+        "eventId": "5907485608"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2011-10-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€7,499,776): Eco Manufactured Transportation Means From …",
+        "current": true,
+        "source": "Fts",
+        "sourceUrl": null,
+        "eventId": "6037963054252032"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-12",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Siemens Treasury GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5455633634295808"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-08",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger MTS Mathematisch Technische Software-Entwicklung GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4875262152671232"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2024-07-29",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Inspekto GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4722273941716992"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2023-04-11",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Senseye GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4727480420401152"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2021-06-02",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Beteiligungen Management GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4551929252806656"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-09-01",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Acquisition",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6336156159967232"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-04-02",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Gesellschaft für Industrielle Steuerungstechnik IST mbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5891156561362944"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2019-05-24",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Agilion GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6141242977550336"
+      }
+    ],
+    "isFirstObservation": true
+  },
+  {
+    "name": "Siemens AG",
+    "legalForm": "AG",
+    "status": "active",
+    "city": "Berlin",
+    "postalCode": "13629",
+    "street": "Nonnendammallee 101",
+    "country": "Germany",
+    "countryCode": "DE",
+    "northdataUrl": "https://www.northdata.com/Siemens%20AG,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%2012300%20B",
+    "foundingDate": "1996-08-28",
+    "purpose": "The development, manufacture, supply, operation and distribution of products, systems, plants and solutions and the supply of services, as well as research and development, in particular in the industrial, energy, health and infrastructure sectors, including the ancestral fields of electrical engineering, electronics, precision engineering and mechanical engineering, as well as in adjacent areas of activity. In these and other areas, the Company may operate and provide related services in any field of information technologies (including electronic data processing, transmission, software, platforms and self-learning systems). In addition, the Company may, in particular through group or investment companies, operate in the financial sector (including banks and reinsurance) and may also participate inindirectly in companies and companies of all kinds, including in the management of its own assets. Finally, the company is entitled to carry out all transactions and to take all measures which are related to the abovementioned activities or which appear to be directly or indirectly conducive to them.",
+    "alternateNames": [],
+    "lei": null,
+    "identifiers": [
+      {
+        "source": "Ut",
+        "sourceName": "German Trade Register Company Profile",
+        "value": "District Court of Charlottenburg (Berlin) HRB 12300 B"
+      },
+      {
+        "source": "EUID",
+        "sourceName": null,
+        "value": "DEF1103R.HRB12300B"
+      }
+    ],
+    "formerIdentifiers": [],
+    "registerText": "District Court of Charlottenburg (Berlin) HRB 12300 B",
+    "registerCourt": "District Court of Charlottenburg (Berlin)",
+    "registerId": "HRB 12300 B",
+    "euid": "DEF1103R.HRB12300B",
+    "stockTickers": [],
+    "formerAddresses": [],
+    "officers": [
+      {
+        "name": "Busch, Roland",
+        "role": "CEO",
+        "type": "Person"
+      },
+      {
+        "name": "Bienert, Veronika",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Körte, Peter",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Neike, Cedrik Wolfgang Francis",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Rebellius, Matthias Ernst",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Wiese, Judith",
+        "role": "Member of the Executive Board",
+        "type": "Person"
+      },
+      {
+        "name": "Vallese Camilo de Godoi, Roberto",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Adragna, Margherita",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Ahrens, Jan-Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Alipur-Ghazani, Michaela",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Amenda, Susanne",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Aspacher, Karl-Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Atzler, Tobias",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Badie, Ingy",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Basson, Rudolf",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Baumgarth, Monika Christine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Behringer, Tobias",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Bischoff, Jörg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Bock, Beatrice",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Böttcher, Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Brandes, Henning",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Brehm, Heike",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Brehm, Rainer",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Breutmann, Thorsten",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Burke, Nanda",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Butze, Dirk",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Dehio, Jan-Erik",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Didascalou, Dirk Leonidas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Dierckens, Saar",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Driesslein-Pokkinen, Anne",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Duffing, Joos",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Eberle, Eckard",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Erlinghagen, Sabine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Fischer, Frank",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Fischer, Heiko Thomas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Folwaczny, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Gaus, Norbert",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Gehring, Ingo",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Graf von Schwerin, Hartmut",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Günther, Nina",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Hahn, Thilo",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Heinzelmann, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Hennig, Hanna",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Heubeck, Gerhard",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Hoffmann, Andreas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Holzapfel, Tim",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Homering, Christian",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Jochums, Jelena",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kaeser, Christian",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kalbitz, Sabine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kammerer, Susanne",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kayser, Horst-J.",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Keßler, Axel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Klein, Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Klotz, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kraus, Annette",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Kunkel, Hanno",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lautenbach, Thomas Werner",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lenhard, Frank",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lichtenberg, Eva-Maria",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Liehr, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Löhle, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Lorenz, Axel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Luk, Peter Chi Shun",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Maier, Daniel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Matthe, Andreas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "May, Stephan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Metzner, Yves",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Meyer, Martin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Mildner, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Müller, Thomas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Mundani, Dagmar",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Niehuis, Jan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Paul, Jens Philippe",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Peltz, Achim",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Peter, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Petrasch, Martin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Pischel, Yuan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Popp, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Ramming, Wolfgang",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rathgeb, Peter",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rathke, Klaus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Reichel, Georg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Reinhold, Martin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Resch, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Ribeiro Guimaraes Höfer, Christiane",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Riesenhuber, Eva",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Royla, Pascal",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rudolf, Andreas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rümmler, Steffen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Rüttler, Axel",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schäffrig, Stefan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schieffer, Frank",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schiffrin, Jennifer",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schirmer, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Schmid, Christian",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Spangler, Robert",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Staubitzer, Klaus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Stebe, Markus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Stenger, Meiko",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Strehle, Christopher",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Tabbert, Henning",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Thiede, Claus",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Vlasta, Dusil",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Vocke, Joerg",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Voß, Dirk",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wagner, Jürgen",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wang, Fengjuan",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wauschkuhn, Antonie",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Weckesser, Michael",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Wiedersich, Thomas",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Zander, Kevin",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Zischka, Sabine",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Jürgen, Heinzelmann",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Dehio, Jan-Eric",
+        "role": "Authorized signatory (ppa)",
+        "type": "Person"
+      },
+      {
+        "name": "Thomas, Ralf Peter",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Helmrich, Klaus",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kaeser, Josef",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Sen, Michael",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Davis, Lisa",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kugel, Janina",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Russwurm, Siegfried",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bauersachs, Markus",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bartmann, Uwe",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Moritz, Norbert",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Zajewski, Hardi",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Blaim, Karl",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bleiweiß, Christian",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Pokorny, Dietmar",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Fredrich, Thomas",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Bock, Yves",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kehlenbeck, Bernd",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Moschko, Stefan",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Weibel, Beat",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "von Kollrepp-Knott, Kathy",
+        "role": null,
+        "type": "Person"
+      },
+      {
+        "name": "Kastenmeier, Peter",
+        "role": null,
+        "type": "Person"
+      }
+    ],
+    "events": [
+      {
+        "section": "History",
+        "date": "1996-08-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6447369604825088"
+      },
+      {
+        "section": "History",
+        "date": "2026-03-12",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.35B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5477205966716928"
+      },
+      {
+        "section": "History",
+        "date": "2025-04-11",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,020.00",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5720250998587392"
+      },
+      {
+        "section": "History",
+        "date": "2024-04-05",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,019.00",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5044007097073664"
+      },
+      {
+        "section": "History",
+        "date": "2023-03-06",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.40B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5407105278803968"
+      },
+      {
+        "section": "History",
+        "date": "2016-04-14",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.55B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "1512185008"
+      },
+      {
+        "section": "History",
+        "date": "2012-10-03",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.64B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "11522043"
+      },
+      {
+        "section": "History",
+        "date": "2007-11-07",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,004.00",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "7939214"
+      },
+      {
+        "section": "History",
+        "date": "2007-11-07",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.74B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5671003397554176"
+      },
+      {
+        "section": "History",
+        "date": "2014-04-11",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=285591&land_abk=be",
+        "eventId": "105365025"
+      },
+      {
+        "section": "History",
+        "date": "2007-02-08",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.68B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "6096580"
+      },
+      {
+        "section": "History",
+        "date": "2006-11-22",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,004.00",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "6080576"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-07",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Veronika Bienert",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6696396548997120",
+        "role": "Member of the Executive Board",
+        "person": "Veronika Bienert"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-07",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Peter Körte",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6696396548997120",
+        "role": "Member of the Executive Board",
+        "person": "Peter Körte"
+      },
+      {
+        "section": "Persons",
+        "date": "2021-03-12",
+        "until": null,
+        "category": "officer",
+        "text": "CEO Roland Busch",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=631583&land_abk=be",
+        "eventId": "6481720432",
+        "role": "CEO",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-24",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Matthias Ernst Rebellius",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=613492&land_abk=be",
+        "eventId": "6264887707",
+        "role": "Member of the Executive Board",
+        "person": "Matthias Ernst Rebellius"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-24",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Judith Wiese",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=613492&land_abk=be",
+        "eventId": "6264887707",
+        "role": "Member of the Executive Board",
+        "person": "Judith Wiese"
+      },
+      {
+        "section": "Persons",
+        "date": "2017-05-18",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Cedrik Wolfgang Francis Neike",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=429268&land_abk=be",
+        "eventId": "3554905141",
+        "role": "Member of the Executive Board",
+        "person": "Cedrik Wolfgang Francis Neike"
+      },
+      {
+        "section": "Persons",
+        "date": "2011-05-23",
+        "until": "2021-03-12",
+        "category": "officer",
+        "text": "Member of the Executive Board Roland Busch",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=169578&land_abk=be",
+        "eventId": "9956707",
+        "role": "Member of the Executive Board",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2026-08-05",
+        "until": null,
+        "category": "publication",
+        "text": "Authorized signatory (ppa) Roberto Vallese Camilo de Godoi",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5529920019234816",
+        "role": "Authorized signatory",
+        "person": "(ppa) Roberto Vallese Camilo de Godoi"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2021-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€11.9M): A flagship for B5G/6G vision and intelligent …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=232703",
+        "eventId": "6333385444"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€4,995,981): Collaborative Development Framework for …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=268122",
+        "eventId": "5259471386574848"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2017-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€4,990,000): Novel ALL-IN-ONE machines, robots and …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=207609",
+        "eventId": "5921351566"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-04-24",
+        "until": null,
+        "category": "legal form",
+        "text": "Wordmark: “ScaleVirtually“",
+        "current": true,
+        "source": "Euipotm",
+        "sourceUrl": null,
+        "eventId": "5509588515553280"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2024-12-26",
+        "until": null,
+        "category": "legal form",
+        "text": "Wordmark: “SIVACON LDM“",
+        "current": false,
+        "source": "Euipotm",
+        "sourceUrl": null,
+        "eventId": "6347836318"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2015-09-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€3,280,582): Mobilization of innovative design tools for …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=198362",
+        "eventId": "5917387110"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2023-12-14",
+        "until": null,
+        "category": "legal form",
+        "text": "Wordmark: “AMELIE“",
+        "current": false,
+        "source": "Euipotm",
+        "sourceUrl": null,
+        "eventId": "6333810833"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-05-21",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "Patent: Method and Assembly Unit for Assembling NON-Electric …",
+        "current": true,
+        "source": "Epobase",
+        "sourceUrl": null,
+        "eventId": "5245575536836608"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2015-05-04",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Turbine Airfoil Coating and Repair GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4881946488864768"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-12",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Siemens Treasury GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6310982478200832"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-06",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger MTS Mathematisch Technische Software-Entwicklung GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6441407448088576"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2024-07-16",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger lnspekto GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5026686078025728"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2023-04-13",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Senseye GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4983797068595200"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2021-06-14",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Beteiligungen Management GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6655866495827968"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-09-01",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Acquisition",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4966940181790720"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-04-06",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Gesellschaft für Industrielle Steuerungstechnik IST mbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6479077454643200"
+      }
+    ],
+    "registerEvents": [
+      {
+        "section": "History",
+        "date": "1996-08-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6447369604825088"
+      },
+      {
+        "section": "History",
+        "date": "2026-03-12",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.35B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5477205966716928"
+      },
+      {
+        "section": "History",
+        "date": "2025-04-11",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,020.00",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5720250998587392"
+      },
+      {
+        "section": "History",
+        "date": "2024-04-05",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,019.00",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5044007097073664"
+      },
+      {
+        "section": "History",
+        "date": "2023-03-06",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.40B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5407105278803968"
+      },
+      {
+        "section": "History",
+        "date": "2016-04-14",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.55B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "1512185008"
+      },
+      {
+        "section": "History",
+        "date": "2012-10-03",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.64B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "11522043"
+      },
+      {
+        "section": "History",
+        "date": "2007-11-07",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,004.00",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "7939214"
+      },
+      {
+        "section": "History",
+        "date": "2007-11-07",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.74B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5671003397554176"
+      },
+      {
+        "section": "History",
+        "date": "2014-04-11",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=285591&land_abk=be",
+        "eventId": "105365025"
+      },
+      {
+        "section": "History",
+        "date": "2007-02-08",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.68B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "6096580"
+      },
+      {
+        "section": "History",
+        "date": "2006-11-22",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,004.00",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "6080576"
+      }
+    ],
+    "officerEvents": [
+      {
+        "section": "Persons",
+        "date": "2024-10-07",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Veronika Bienert",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6696396548997120",
+        "role": "Member of the Executive Board",
+        "person": "Veronika Bienert"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-07",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Peter Körte",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6696396548997120",
+        "role": "Member of the Executive Board",
+        "person": "Peter Körte"
+      },
+      {
+        "section": "Persons",
+        "date": "2021-03-12",
+        "until": null,
+        "category": "officer",
+        "text": "CEO Roland Busch",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=631583&land_abk=be",
+        "eventId": "6481720432",
+        "role": "CEO",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-24",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Matthias Ernst Rebellius",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=613492&land_abk=be",
+        "eventId": "6264887707",
+        "role": "Member of the Executive Board",
+        "person": "Matthias Ernst Rebellius"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-24",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Judith Wiese",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=613492&land_abk=be",
+        "eventId": "6264887707",
+        "role": "Member of the Executive Board",
+        "person": "Judith Wiese"
+      },
+      {
+        "section": "Persons",
+        "date": "2017-05-18",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Cedrik Wolfgang Francis Neike",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=429268&land_abk=be",
+        "eventId": "3554905141",
+        "role": "Member of the Executive Board",
+        "person": "Cedrik Wolfgang Francis Neike"
+      },
+      {
+        "section": "Persons",
+        "date": "2011-05-23",
+        "until": "2021-03-12",
+        "category": "officer",
+        "text": "Member of the Executive Board Roland Busch",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=169578&land_abk=be",
+        "eventId": "9956707",
+        "role": "Member of the Executive Board",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2026-08-05",
+        "until": null,
+        "category": "publication",
+        "text": "Authorized signatory (ppa) Roberto Vallese Camilo de Godoi",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5529920019234816",
+        "role": "Authorized signatory",
+        "person": "(ppa) Roberto Vallese Camilo de Godoi"
+      }
+    ],
+    "financials": {
+      "Earnings": {
+        "title": "Earnings",
+        "series": [
+          {
+            "year": 2025,
+            "value": 10387000000,
+            "formattedValue": "€10.4B",
+            "consolidated": true,
+            "estimate": false,
+            "source": "Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.10.2024 bis zum 30.09.2025",
+            "publicationDate": "2025-12-05"
+          }
+        ]
+      },
+      "Revenue": {
+        "title": "Revenue",
+        "series": [
+          {
+            "year": 2025,
+            "value": 78914000000,
+            "formattedValue": "€78.9B",
+            "consolidated": true,
+            "estimate": false,
+            "source": "Jahres- und Konzernabschluss zum Geschäftsjahr vom 01.10.2024 bis zum 30.09.2025",
+            "publicationDate": "2025-12-05"
+          }
+        ]
+      },
+      "FundingAmount": {
+        "title": "Public funding",
+        "series": [
+          {
+            "year": 2024,
+            "value": 35174307.88,
+            "formattedValue": "€35.2M",
+            "consolidated": false,
+            "estimate": false,
+            "source": "Förderkatalog des Bundes, EU Research and Innovation programme \"Horizon\"",
+            "publicationDate": "2024-12-01"
+          }
+        ]
+      }
+    },
+    "latestKpis": {
+      "Earnings": {
+        "year": 2025,
+        "value": 10387000000,
+        "formattedValue": "€10.4B"
+      },
+      "Revenue": {
+        "year": 2025,
+        "value": 78914000000,
+        "formattedValue": "€78.9B"
+      },
+      "FundingAmount": {
+        "year": 2024,
+        "value": 35174307.88,
+        "formattedValue": "€35.2M"
+      }
+    },
+    "latestRevenue": 78914000000,
+    "latestRevenueYear": 2025,
+    "latestEarnings": 10387000000,
+    "latestEarningsYear": 2025,
+    "latestBalanceSheetTotal": null,
+    "latestBalanceSheetTotalYear": null,
+    "financialYears": [
+      2024,
+      2025
+    ],
+    "lastEventDate": "2026-08-05",
+    "query": "https://www.northdata.com/Siemens%20AG,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%2012300%20B",
+    "scrapedAt": "2026-10-19T09:06:43+00:00",
+    "newEvents": [
+      {
+        "section": "History",
+        "date": "1996-08-28",
+        "until": null,
+        "category": "registration",
+        "text": "Registration",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6447369604825088"
+      },
+      {
+        "section": "History",
+        "date": "2026-03-12",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.35B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5477205966716928"
+      },
+      {
+        "section": "History",
+        "date": "2025-04-11",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,020.00",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5720250998587392"
+      },
+      {
+        "section": "History",
+        "date": "2024-04-05",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,019.00",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5044007097073664"
+      },
+      {
+        "section": "History",
+        "date": "2023-03-06",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.40B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5407105278803968"
+      },
+      {
+        "section": "History",
+        "date": "2016-04-14",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.55B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "1512185008"
+      },
+      {
+        "section": "History",
+        "date": "2012-10-03",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.64B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "11522043"
+      },
+      {
+        "section": "History",
+        "date": "2007-11-07",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,004.00",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "7939214"
+      },
+      {
+        "section": "History",
+        "date": "2007-11-07",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.74B",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5671003397554176"
+      },
+      {
+        "section": "History",
+        "date": "2014-04-11",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Company statute",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=285591&land_abk=be",
+        "eventId": "105365025"
+      },
+      {
+        "section": "History",
+        "date": "2007-02-08",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2.68B",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "6096580"
+      },
+      {
+        "section": "History",
+        "date": "2006-11-22",
+        "until": null,
+        "category": "capital",
+        "text": "Capital: €2,004.00",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": null,
+        "eventId": "6080576"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-07",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Veronika Bienert",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6696396548997120",
+        "role": "Member of the Executive Board",
+        "person": "Veronika Bienert"
+      },
+      {
+        "section": "Persons",
+        "date": "2024-10-07",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Peter Körte",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6696396548997120",
+        "role": "Member of the Executive Board",
+        "person": "Peter Körte"
+      },
+      {
+        "section": "Persons",
+        "date": "2021-03-12",
+        "until": null,
+        "category": "officer",
+        "text": "CEO Roland Busch",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=631583&land_abk=be",
+        "eventId": "6481720432",
+        "role": "CEO",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-24",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Matthias Ernst Rebellius",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=613492&land_abk=be",
+        "eventId": "6264887707",
+        "role": "Member of the Executive Board",
+        "person": "Matthias Ernst Rebellius"
+      },
+      {
+        "section": "Persons",
+        "date": "2020-11-24",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Judith Wiese",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=613492&land_abk=be",
+        "eventId": "6264887707",
+        "role": "Member of the Executive Board",
+        "person": "Judith Wiese"
+      },
+      {
+        "section": "Persons",
+        "date": "2017-05-18",
+        "until": null,
+        "category": "officer",
+        "text": "Member of the Executive Board Cedrik Wolfgang Francis Neike",
+        "current": true,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=429268&land_abk=be",
+        "eventId": "3554905141",
+        "role": "Member of the Executive Board",
+        "person": "Cedrik Wolfgang Francis Neike"
+      },
+      {
+        "section": "Persons",
+        "date": "2011-05-23",
+        "until": "2021-03-12",
+        "category": "officer",
+        "text": "Member of the Executive Board Roland Busch",
+        "current": false,
+        "source": "Hrb",
+        "sourceUrl": "http://www.handelsregisterbekanntmachungen.de/skripte/hrb.php?rb_id=169578&land_abk=be",
+        "eventId": "9956707",
+        "role": "Member of the Executive Board",
+        "person": "Roland Busch"
+      },
+      {
+        "section": "Persons",
+        "date": "2026-08-05",
+        "until": null,
+        "category": "publication",
+        "text": "Authorized signatory (ppa) Roberto Vallese Camilo de Godoi",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5529920019234816",
+        "role": "Authorized signatory",
+        "person": "(ppa) Roberto Vallese Camilo de Godoi"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2021-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€11.9M): A flagship for B5G/6G vision and intelligent …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=232703",
+        "eventId": "6333385444"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€4,995,981): Collaborative Development Framework for …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-HORIZONprojects-xml.zip?rcn=268122",
+        "eventId": "5259471386574848"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2017-01-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€4,990,000): Novel ALL-IN-ONE machines, robots and …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=207609",
+        "eventId": "5921351566"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-04-24",
+        "until": null,
+        "category": "legal form",
+        "text": "Wordmark: “ScaleVirtually“",
+        "current": true,
+        "source": "Euipotm",
+        "sourceUrl": null,
+        "eventId": "5509588515553280"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2024-12-26",
+        "until": null,
+        "category": "legal form",
+        "text": "Wordmark: “SIVACON LDM“",
+        "current": false,
+        "source": "Euipotm",
+        "sourceUrl": null,
+        "eventId": "6347836318"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2015-09-01",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "EU funding (€3,280,582): Mobilization of innovative design tools for …",
+        "current": true,
+        "source": "Hor",
+        "sourceUrl": "https://cordis.europa.eu/data/cordis-h2020projects-xml.zip?rcn=198362",
+        "eventId": "5917387110"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2023-12-14",
+        "until": null,
+        "category": "legal form",
+        "text": "Wordmark: “AMELIE“",
+        "current": false,
+        "source": "Euipotm",
+        "sourceUrl": null,
+        "eventId": "6333810833"
+      },
+      {
+        "section": "Marketing & Tech",
+        "date": "2025-05-21",
+        "until": null,
+        "category": "funding or trademark",
+        "text": "Patent: Method and Assembly Unit for Assembling NON-Electric …",
+        "current": true,
+        "source": "Epobase",
+        "sourceUrl": null,
+        "eventId": "5245575536836608"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2015-05-04",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Turbine Airfoil Coating and Repair GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4881946488864768"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-12",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Siemens Treasury GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6310982478200832"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2025-05-06",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger MTS Mathematisch Technische Software-Entwicklung GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6441407448088576"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2024-07-16",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger lnspekto GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "5026686078025728"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2023-04-13",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Senseye GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4983797068595200"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2021-06-14",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Beteiligungen Management GmbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6655866495827968"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-09-01",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Acquisition",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "4966940181790720"
+      },
+      {
+        "section": "Merger & Acquisition & Control",
+        "date": "2020-04-06",
+        "until": null,
+        "category": "statute or merger",
+        "text": "Merger Gesellschaft für Industrielle Steuerungstechnik IST mbH",
+        "current": true,
+        "source": "Hrcdd",
+        "sourceUrl": null,
+        "eventId": "6479077454643200"
+      }
+    ],
+    "isFirstObservation": true
+  }
+]
